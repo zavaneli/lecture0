@@ -1,0 +1,8 @@
+title{
+      font-family:arial
+      font-size:28px
+      font-weight:italic
+  }
+h1{
+   font-weight:bold;
+  }
