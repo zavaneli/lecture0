@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Web Page!</title>
+    <style>
+      tr{
+         text-align:center;
+       }
+      h1{
+         font-weight:bold;
+       }
+	</head>
+	<body>
+   <h1>My to do list</h1>
+   <table>
+    <tr>
+      <th>Assignment</th>
+      <th>Priority</th>
+    </tr>
+    <tr>
+      <td>Marketing Exam</td>
+      <td>High style="color:red"</td>
+    </tr>
+    <tr>
+      <td>Math Homework</td>
+      <td>Medium style="color:yellow"</td>
+    </tr>
+    <tr>
+      <td>Final Project MKTG</td>
+      <td>Low style="color:green"</td>
+    </tr>
+	</body>
+</html>
